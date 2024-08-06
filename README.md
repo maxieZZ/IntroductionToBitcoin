@@ -1,9 +1,6 @@
-README
-Max Grice
-
 # Basic Block-Chain Implementation in Python
 
-The following code is a command line program in Python that illustrate four main features of an implemented blockchain. These features included simplified elements of blockchain techniques such as wallet generation, mining for a nonce value, digital signatures and public private key encryption, transactions, and block validation. A more detailed list of features is outlined below:
+The following code (navigate to folder "code" in main directory) is a command line program in Python that illustrate four main features of an implemented blockchain. These features included simplified elements of blockchain techniques such as wallet generation, mining for a nonce value, digital signatures and public private key encryption, transactions, and block validation. A more detailed list of features is outlined below:
 
 - Hashing and mining with a given difficulty
 - Wallet generation and validation with public private key encryption
@@ -15,6 +12,7 @@ The following code is a command line program in Python that illustrate four main
 	+ Double Spending
 	+ Majority Attack
 
+For a complete writeup and more detailed walkthrough of this project, please download "report.pdf" for a descriptive overview or "powerpoint.key" & "poster.key" for a more visual presentation. Enjoy! :)
 
 # Dependencies
 
